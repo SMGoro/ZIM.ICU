@@ -12,6 +12,7 @@
 
 - 据本人爆料，ZIM（全名[ZIMZAZA4](https://github.com/zimzaza4/) ）作为 [IMC.RE](https://imc.re/) Java开发工程师的同时甚至连像样的开发设备都没有，只能拿手机写代码苟且度日，近期陪伴长年的手机甚至用到报废，无奈之下只好更换设备，继续写码。知情人士表示：**五郎，gkd给ZIM买台电脑！**
 - ZIM 曾高强度参与 [Geyser](https://github.com/GeyserMC/Geyser) 相关的开发，率先实现了[Skript-Floodgate-Api)](https://github.com/zimzaza4/Skript-Floodgate-Api)  [GeyserClickableMessageGUI](https://github.com/zimzaza4/GeyserClickableMessageGUI)   等项目，受到国内外圈内腐竹的瞩目，~~成为了万众瞩目的秧歌Star~~，**但是本人并没有从中获取到任何利益**，~~甚至要打工倒贴给五郎补贴服务器费用（）~~
+- [震惊！基岩版2b2t服务器华人聚集区被毁，只有一个人的家没被毁！那就是我！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1S4411D71b/?spm_id_from=333.337.search-card.all.click&vd_source=6d1e1cc7aaa067da775c4ea996db38f7)：今天刚知道的服务器，然后进来后，一个好心人（zimzaza4）给了我钻石衣服和裤子还有铁剑和铁镐，我玩了一会后下线吃饭，然后刚一上线就被毁了，有个人和那个黑客打，爆了四套钻石套，不过好在现在安定下来了。
 
 -----
 
